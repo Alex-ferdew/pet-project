@@ -1,0 +1,15 @@
+1. Установить git - https://git-scm.com/
+2. Настроить конфигурацию git.username git.email - https://git-scm.com/book/ru/v2
+3. Зарегистрироваться на github - https://github.com/signup
+4. Создать первый репозиторий (New repository)
+5. Оформить README.md файл для портфолио
+6. Создать репозиторий для проекта pet-project
+7. Опубликовать тестовую версию проекта на github pages - https://docs.github.com/ru/pages/quickstart
+8. Пример репозитория с готовыми решениями для web приложений - https://github.com/BytesHouse/maxgraph-youtube-source
+9. Создать новую ветку `git branch refactor/ai`
+10. Переключиться на другую вертку `git checkout refactor/ai`
+11. Выполнить рефактор проекта в ИИ 
+12. Выполнить коммит `git commit -m 'название_коммита'`
+13. выполнить push в репозиторий `git push origin refactor/ai`\
+14. Создать новый PR (Pull Request)
+15. Тренажер HTML Academy - https://htmlacademy.ru/

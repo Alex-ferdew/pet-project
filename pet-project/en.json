@@ -1,0 +1,29 @@
+{
+    
+        "home": "Home",
+        "we_are": "Who we are",
+        "features": "Features",
+        "download_app": "Download application",
+        "faq": "FAQ",
+        "news": "News",
+        "sign_up_for_free": "Sign up for free",
+        "we_are_not_a_souless_commercial_machine": "We are not a soulless commercial machine",
+        "here_are_3_reasons_why_ProPets_is_the_perfect_choice_for_pet_owners_everywhere": "Here are 3 reasons why ProPets is the perfect choice for pet owners everywhere:",
+        "convenient": "Convenient online platform: with ProPets you don't have to waste time searching for pet-related resources. All necessary information is available in a few clicks — 24/7 and from any device.",
+        "community": "Community engagement: ProPets is not just a database. We also strive to create a global community of pet owners and lovers. Connect with other owners, share experiences, and learn from those around you.",
+        "easy_to_use": "Easy to use: the ProPets app features a user-friendly and intuitive interface, making it easy for pet owners of all technical skill levels to find the resources they need.",
+        "we_are_created_for": "we are created for",
+        "our application_etxt": "Our application doesn't just help find pets. It is also a platform that brings together a wide variety of people and professionals who have dedicated their lives to pets.",
+        "pet_owner_text": "ProPets helps pet owners find the best local veterinary clinics, grooming salons, and pet hotels. Using our app, they can also connect with other nearby pet owners to arrange playdates and walks, as well as share pet care tips.",
+        "animal_shelters_text": "Animal shelters can use our app to showcase their pets ready for adoption to a wider audience, thereby increasing their chances of finding a loving family. Additionally, the platform allows them to share information about their organization and announce upcoming events.",
+        "pet_sitters_text": "ProPets helps pet sitters and dog walkers find pet owners who need their services. Using our app, they can create a profile, showcase their experience, and connect with potential clients.",
+        "veterinarians_text": "Our app helps veterinarians increase their visibility and attract new clients. They can use the platform to showcase their services and professional expertise, communicate with clients, and stay informed about the latest veterinary news.",
+        "animal_welfare_text": "ProPets helps animal welfare organizations talk about their activities and find supporters. On this platform, they can share news about their work, promote fundraising campaigns, and interact with the wider pet-loving community.",
+        "Pet owners": "Pet owners",
+        "Animal shelters": "Animal shelters",
+        "Pet sitters and dog walkers": "Pet sitters and dog walkers",
+        "Veterinarians:": "Veterinarians:",
+        "Pet product companies": "Pet product companies",
+        "Animal welfare organizations": "Animal welfare organizations"
+    
+}
